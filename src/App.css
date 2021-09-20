@@ -9,6 +9,10 @@
   color: white;
 }
 
+.container > div {
+  padding: 10px;
+}
+
 .audioPlayer {
   width: 90%; 
   margin: 0 auto; 
