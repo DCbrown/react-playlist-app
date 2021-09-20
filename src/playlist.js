@@ -8,62 +8,62 @@ const songs = [
     { 
         name: 'Chambers', 
         artist:"Fat Jon", 
-        src: 'https://cv.browncdonovan.com/assets/music/chambers.mp3' 
+        src: 'https://competent-bhabha-abd8d2.netlify.app/music/chambers.mp3' 
     },
     { 
         name: 'Castlevania II Simon\'s Quest', 
         artist:"The One-Ups", 
-        src: 'https://cv.browncdonovan.com/assets/music/castlevania-II-simon-quest.mp3' 
+        src: 'https://competent-bhabha-abd8d2.netlify.app/music/castlevania-II-simon-quest.mp3' 
     },
     { 
         name: 'Don\'t Even try it', 
         artist:"Nujabes", 
-        src: 'https://cv.browncdonovan.com/assets/music/dont-even-try-it.mp3'
+        src: 'https://competent-bhabha-abd8d2.netlify.app/music/dont-even-try-it.mp3'
     },
     { 
         name: 'Don\'t Even try it', 
         artist:"Nujabes", 
-        src: 'https://cv.browncdonovan.com/assets/music/dont-even-try-it.mp3'
+        src: 'https://competent-bhabha-abd8d2.netlify.app/music/dont-even-try-it.mp3'
     },
     { 
         name: 'Fire Drill', 
         artist:"Gecko Yamori", 
-        src: 'https://cv.browncdonovan.com/assets/music/fire-drill.mp3'
+        src: 'https://competent-bhabha-abd8d2.netlify.app/music/fire-drill.mp3'
     },
     { 
         name: 'Just forget', 
         artist:"Force Of Nature", 
-        src: 'https://cv.browncdonovan.com/assets/music/justforget.mp3'
+        src: 'https://competent-bhabha-abd8d2.netlify.app/music/justforget.mp3'
     },
     { 
         name: 'Let me know what u think', 
         artist:"Tsutchie", 
-        src: 'https://cv.browncdonovan.com/assets/music/let-me-know-what-u-think.mp3'
+        src: 'https://competent-bhabha-abd8d2.netlify.app/music/let-me-know-what-u-think.mp3'
     },
     { 
         name: 'Next to You', 
         artist:"Flamingosis", 
-        src: 'https://cv.browncdonovan.com/assets/music/next-to-you.mp3'
+        src: 'https://competent-bhabha-abd8d2.netlify.app/music/next-to-you.mp3'
     },
     { 
         name: 'R.A.P Rhythm and PaRapper', 
         artist:"Emcess", 
-        src: 'https://cv.browncdonovan.com/assets/music/rhythm-and-parappa.mp3'
+        src: 'https://competent-bhabha-abd8d2.netlify.app/music/rhythm-and-parappa.mp3'
     },
     { 
         name: 'Sincerely', 
         artist:"Tsutchie", 
-        src: 'https://cv.browncdonovan.com/assets/music/sincerely.mp3'
+        src: 'https://competent-bhabha-abd8d2.netlify.app/music/sincerely.mp3'
     },
     { 
         name: 'Street Fighter II Sagat Theme', 
         artist:"The One-Ups", 
-        src: 'https://cv.browncdonovan.com/assets/music/street-fighter-sagat.mp3'
+        src: 'https://competent-bhabha-abd8d2.netlify.app/music/street-fighter-sagat.mp3'
     },
     { 
         name: 'ToeJam & Earl Alien Breakdown ', 
         artist:"The One-Ups", 
-        src: 'https://cv.browncdonovan.com/assets/music/toe-jam-earl-alien-break-down.mp3'
+        src: 'https://competent-bhabha-abd8d2.netlify.app/music/toe-jam-earl-alien-break-down.mp3'
     },
     
 ]
