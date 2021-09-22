@@ -16,12 +16,7 @@ const songs = [
         src: 'https://competent-bhabha-abd8d2.netlify.app/music/castlevania-II-simon-quest.mp3' 
     },
     { 
-        name: 'Don\'t Even try it', 
-        artist:"Nujabes", 
-        src: 'https://competent-bhabha-abd8d2.netlify.app/music/dont-even-try-it.mp3'
-    },
-    { 
-        name: 'Don\'t Even try it', 
+        name: 'Don\'t Even Try It', 
         artist:"Nujabes", 
         src: 'https://competent-bhabha-abd8d2.netlify.app/music/dont-even-try-it.mp3'
     },
@@ -31,22 +26,22 @@ const songs = [
         src: 'https://competent-bhabha-abd8d2.netlify.app/music/fire-drill.mp3'
     },
     { 
-        name: 'Just forget', 
+        name: 'Just Forget', 
         artist:"Force Of Nature", 
         src: 'https://competent-bhabha-abd8d2.netlify.app/music/justforget.mp3'
     },
     { 
-        name: 'Let me know what u think', 
+        name: 'Let Me Know What U Think', 
         artist:"Tsutchie", 
         src: 'https://competent-bhabha-abd8d2.netlify.app/music/let-me-know-what-u-think.mp3'
     },
     { 
-        name: 'Next to You', 
+        name: 'Next To You', 
         artist:"Flamingosis", 
         src: 'https://competent-bhabha-abd8d2.netlify.app/music/next-to-you.mp3'
     },
     { 
-        name: 'R.A.P Rhythm and PaRapper', 
+        name: 'R.A.P Rhythm And PaRapper', 
         artist:"Emcess", 
         src: 'https://competent-bhabha-abd8d2.netlify.app/music/rhythm-and-parappa.mp3'
     },
