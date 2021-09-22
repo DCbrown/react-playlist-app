@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 
 .header { 
-  margin-top: 14%;
+  margin-top: 200px;
   color: white;
   font-family: 'Dancing Script', cursive;
   font-size: 50px;
 }
 
 .container {
-  width: 500px;
+  width: 400px;
   margin: 10px auto 0;
   overflow: hidden;
   background-color: rgba(73, 71, 71, 0.397);
@@ -50,4 +50,10 @@ h2 {
 
 .rhap_volume-indicator{
   background-color: blueviolet;
+}
+
+@media only screen and (min-width : 321px) {
+    .container {
+      min-width: 20%;
+    }
 }
