@@ -4,9 +4,9 @@ import './App.css';
 function App() {
   return (
     <div>
-      <h1 className="header">Chill & Code Playlist</h1>
       <div className="container">
         <div className="card">
+        <h1 className="header">Chill & Code Playlist</h1>
           <Playlist></Playlist>
         </div>
       </div>
