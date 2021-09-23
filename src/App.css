@@ -8,6 +8,11 @@
 }
 
 .container {
+  display: flex;
+  padding: 0 10px;
+}
+
+.card {
   width: 400px;
   margin: 10px auto 0;
   overflow: hidden;

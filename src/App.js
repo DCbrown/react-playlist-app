@@ -6,7 +6,9 @@ function App() {
     <div>
       <h1 className="header">Chill & Code Playlist</h1>
       <div className="container">
-        <Playlist></Playlist>
+        <div className="card">
+          <Playlist></Playlist>
+        </div>
       </div>
     </div>
   );
